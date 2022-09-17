@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the journal articles and textbook selections for each
+  lecture session. It also presents all of the readings organized as a "virtual textbook."
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
